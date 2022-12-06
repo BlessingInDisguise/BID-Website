@@ -1,7 +1,7 @@
 # BID-Website
 BID official website
 
-Visit website >> [wearethebid.com](wearethebid.com)
+Visit website >> ([https://wearethebid.com]
 
 ## Social Media BID
 
